@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tic-tac-toe</string>
+    <string name="exit">Exit</string>
+    <string name="exit_message">Do you want to exit?</string>
+    <string name="quit">Quit</string>
+    <string name="quit_message">Do you want to quit game?</string>
+    <string name="play">PLAY</string>
+    <string name="reset_game_button">Reset Game</string>
+    <string name="player1_text_view">Player 1: 0</string>
+    <string name="player2_text_view">Player 2: 0</string>
+</resources>
